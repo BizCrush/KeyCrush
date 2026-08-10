@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>KeyCrush</title>
+    <link>https://bizcrush.github.io/KeyCrush/appcast.xml</link>
+    <description>KeyCrush updates</description>
+    <language>en</language>
+  </channel>
+</rss>
