@@ -1,0 +1,10 @@
+{
+    "version":  "0.2.6",
+    "build":  17,
+    "build_date":  "2026-08-12T03:14:44Z",
+    "platform":  "Windows",
+    "download_url":  "https://github.com/BizCrush/KeyCrush/releases/download/v0.2.6/KeyCrush-Setup-0.2.6.exe",
+    "file_size":  "20.73 MB",
+    "sha256":  "cf3cab9c5937e16caa0c0211981133f26216b4fe0da0b21186ea8246387deac2",
+    "critical_update":  false
+}
