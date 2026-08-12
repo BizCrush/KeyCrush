@@ -1,10 +1,10 @@
 {
-    "version":  "0.2.7",
-    "build":  18,
-    "build_date":  "2026-08-12T03:33:05Z",
+    "version":  "0.2.8",
+    "build":  19,
+    "build_date":  "2026-08-12T05:44:50Z",
     "platform":  "Windows",
-    "download_url":  "https://github.com/BizCrush/KeyCrush/releases/download/v0.2.7/KeyCrush-Setup-0.2.7.exe",
-    "file_size":  "20.76 MB",
-    "sha256":  "c9793fdc332ff1613c8ed38d5e961d95173f77a8153543118d08f2798166efda",
+    "download_url":  "https://github.com/BizCrush/KeyCrush/releases/download/v0.2.8/KeyCrush-Setup-0.2.8.exe",
+    "file_size":  "20.81 MB",
+    "sha256":  "8b83e495adb2149d283833042cab4802e44adfdfc0a6e58413998ca27131059f",
     "critical_update":  false
 }
