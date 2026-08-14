@@ -349,5 +349,13 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/BizCrush/KeyCrush/releases/download/v0.3.14/KeyCrush-0.3.14.zip" length="41241489" type="application/octet-stream" sparkle:edSignature="hmGYzIQZ2gwXKMuTitfpTu9PFxwxy12PK8BG/PTAxThurkJ1HWtikSJ9jUKFH9OkmrI0mz1+eZroCWYj37F0Bg=="/>
     </item>
+    <item>
+      <title>KeyCrush 0.3.15</title>
+      <pubDate>Fri, 14 Aug 2026 12:40:53 +0900</pubDate>
+      <sparkle:version>00315</sparkle:version>
+      <sparkle:shortVersionString>0.3.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/BizCrush/KeyCrush/releases/download/v0.3.15/KeyCrush-0.3.15.zip" length="41246478" type="application/octet-stream" sparkle:edSignature="MpGq1WmIGDynU649PY0cvEEUHEXM0Axifm7wFjl1A8HvTX7p4uEpS2MQy8G6dABbRWNntJJ/GvOU9PdUuH2UBQ=="/>
+    </item>
   </channel>
 </rss>
