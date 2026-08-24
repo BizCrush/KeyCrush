@@ -1,10 +1,10 @@
 {
-    "version":  "0.4.15",
-    "build":  415,
-    "build_date":  "2026-08-21T07:22:47Z",
+    "version":  "0.4.17",
+    "build":  417,
+    "build_date":  "2026-08-24T12:17:15Z",
     "platform":  "Windows",
-    "download_url":  "https://github.com/BizCrush/KeyCrush/releases/download/v0.4.15/KeyCrush-Setup-0.4.15.exe",
-    "file_size":  "26.52 MB",
-    "sha256":  "11df2c529a9051aefefa73a7be367532b6a16221c85a6580ff61e9ea93df7c02",
+    "download_url":  "https://github.com/BizCrush/KeyCrush/releases/download/v0.4.17/KeyCrush-Setup-0.4.17.exe",
+    "file_size":  "26.56 MB",
+    "sha256":  "db231eddc82f531442201744a89244343ea6af80df82fc3c8529aed5f5d2f2d3",
     "critical_update":  false
 }
