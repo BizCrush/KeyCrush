@@ -1,10 +1,10 @@
 {
-    "version":  "0.4.19",
-    "build":  419,
-    "build_date":  "2026-08-27T02:48:54Z",
+    "version":  "0.4.21",
+    "build":  421,
+    "build_date":  "2026-08-27T05:40:07Z",
     "platform":  "Windows",
-    "download_url":  "https://github.com/BizCrush/KeyCrush/releases/download/v0.4.19/KeyCrush-Setup-0.4.19.exe",
+    "download_url":  "https://github.com/BizCrush/KeyCrush/releases/download/v0.4.21/KeyCrush-Setup-0.4.21.exe",
     "file_size":  "26.57 MB",
-    "sha256":  "9fe929dc24ae5fc9d537f1f54ed0cce545e850b34026eb64391c3eb12c261ec9",
+    "sha256":  "3aede62fc888eb3f1477644c8f7dcf373691048c7f3aec6b6e8838bfecb5e145",
     "critical_update":  false
 }
